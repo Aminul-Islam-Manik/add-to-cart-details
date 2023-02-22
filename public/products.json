@@ -1,0 +1,9 @@
+[
+    {"id":1, "name":"Watch", "price":1000, "img":"./image/1.png"},
+    {"id":2, "name":"Smart Watch", "price":1200, "img":"./image/2.png"},
+    {"id":3, "name":"Camera", "price":1500, "img":"./image/3.jpg"},
+    {"id":4, "name":"Sofa", "price":1700, "img":"./image/4.png"},
+    {"id":5, "name":"I-Phone", "price":100, "img":"./image/5.jpg"},
+    {"id":6, "name":"Body oil", "price":200, "img":"./image/6.png"},
+    {"id":7, "name":"Body Milk", "price":300, "img":"./image/7.png"}
+]
